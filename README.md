@@ -52,8 +52,8 @@ If our method, data, and code help you, please considering cite our work:
 ```bibtex
 @inproceedings{wang2022c3da,
     title = {A Contrastive Cross-Channel Data Augmentation Framework for Aspect-Based Sentiment Analysis},
-    author = {Bing Wang, Liang Ding, Qihuang Zhong, Ximing Li, Dacheng Tao},
-    booktitle = {COLING},
+    author = {Wang, Bing and Ding, Liang and Zhong, Qihuang and Li, Ximing and Tao, Dacheng},
+    booktitle = {International Conference on Computational Linguistics (COLING)},
     year = {2022}
 }
 ```
