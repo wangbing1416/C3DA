@@ -114,7 +114,7 @@ class Instructor:
                 polar_input_ids = inputs[0].clone()
                 # prepare labels
                 label_ids = inputs[0].clone()
-                temp = label_ids[0]
+                temp = label_ids[0].clone()  # we fix a bug, thank Jie Shen@Fudan
                 label_ids[:-1] = label_ids[1:].clone()
                 label_ids[-1] = temp
                 labels = torch.cat([label_ids, label_ids], dim=0)
