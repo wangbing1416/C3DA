@@ -45,6 +45,19 @@ Logs are saved under `C3DA/C3DA/log`
 The code and datasets in this repository are based on [ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch) and [CDT_ABSA](https://github.com/Guangzidetiaoyue/CDT_ABSA).
 
 
+## Citation
+
+If our method, data, and code help you, please considering cite our work:
+
+```bibtex
+@inproceedings{wang2022c3da,
+    title = {A Contrastive Cross-Channel Data Augmentation Framework for Aspect-Based Sentiment Analysis},
+    author = {Wang, Bing and Ding, Liang and Zhong, Qihuang and Li, Ximing and Tao, Dacheng},
+    booktitle = {International Conference on Computational Linguistics (COLING)},
+    year = {2022}
+}
+```
+
 
 
 
