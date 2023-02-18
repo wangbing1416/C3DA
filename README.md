@@ -47,12 +47,9 @@ The code and datasets in this repository are based on [ABSA-PyTorch](https://git
 
 ## Cite
 
+```
 @inproceedings{DBLP:conf/coling/Wang0ZLT22,
-  author    = {Bing Wang and
-               Liang Ding and
-               Qihuang Zhong and
-               Ximing Li and
-               Dacheng Tao},
+  author    = {Bing Wang and Liang Ding and Qihuang Zhong and Ximing Li and Dacheng Tao},
   title     = {A Contrastive Cross-Channel Data Augmentation Framework for Aspect-Based Sentiment Analysis},
   booktitle = {Proceedings of the 29th International Conference on Computational Linguistics, {COLING} 2022, Gyeongju, Republic of Korea, October 12-17,
                2022},
@@ -64,5 +61,6 @@ The code and datasets in this repository are based on [ABSA-PyTorch](https://git
   biburl    = {https://dblp.org/rec/conf/coling/Wang0ZLT22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
 
 
